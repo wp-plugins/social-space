@@ -26,7 +26,7 @@ Note: Be sure to enter the URL for each social site by starting with 'http://' (
 == Installation ==
 
 1. When you download this plugin widget it will mainly be a folder named 'social-space'.
-2. 'html-parse' folder contains 3 items: 1) social.png (image icon) 2) index.php file 3) readme.txt
+2. 'social-space' folder contains 3 items: 1) social.png (image icon) 2) index.php file 3) readme.txt
 3. Upload 'social-space' folder to the `/wp-content/plugins/` directory.
 4. Activate this 'Social Space' plugin widget through the 'Plugins' menu in WordPress.
 5. After activating you will see the 'Social Space' widget appear in the widgets list.
