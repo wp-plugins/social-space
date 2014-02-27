@@ -26,8 +26,15 @@ Note: Be sure to enter the URL for each social site by starting with 'http://' (
 == Installation ==
 
 1. When you download this plugin widget it will mainly be a folder named 'social-space'.
-2. 'social space' folder contains 3 items: 1) social.png (image icon) 2) index.php file 3) readme.txt
+2. 'html-parse' folder contains 3 items: 1) social.png (image icon) 2) index.php file 3) readme.txt
 3. Upload 'social-space' folder to the `/wp-content/plugins/` directory.
 4. Activate this 'Social Space' plugin widget through the 'Plugins' menu in WordPress.
 5. After activating you will see the 'Social Space' widget appear in the widgets list.
 6. Customize the widget as per your need and see a cool socail widget appear oon your website.
+
+== Screenshots ==
+
+1. Social Space widget in the widget's list after activation.
+2. When you enter the 'Widget Title', it also reflects in the widget titlebar.
+3. Only those social icons will appear on website whose URL are entered in widget (In this case: Facebook, LinkedIn and Flickr). Icons get lighted up on hover.
+4. All the 11 social icons are active.
