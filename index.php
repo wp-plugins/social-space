@@ -5,11 +5,11 @@
  */
 /*
 Plugin Name: Social Space
-Plugin URI: 
+Plugin URI: http://wordpress.org/plugins/social-space/
 Description: A simple Plugin for showing your social links using a simple widget so that people can connect with you more easily.
 Version: 1.0
 Author: Rishabh Shah
-Author URI: http://www.techntuts.com/
+Author URI: http://profiles.wordpress.org/rishabh_19/
 License: GPLv2 or later
 */
 
