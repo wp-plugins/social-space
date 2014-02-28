@@ -1,7 +1,7 @@
 === Social Space ===
 Contributors: rishabh_19
 Tags: social, widget, sharing, plugin, simple, wordpress
-Requires at least: 3.0.1
+Requires at least: 2.9.2
 Tested up to: 3.8.1
 Stable tag: 1.0
 License: GPLv2 or later
