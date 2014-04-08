@@ -38,3 +38,14 @@ Note: Be sure to enter the URL for each social site by starting with 'http://' (
 2. When you enter the 'Widget Title', it also reflects in the widget titlebar.
 3. Only those social icons will appear on website whose URL are entered in widget (In this case: Facebook, LinkedIn and Flickr). Icons get lighted up on hover.
 4. All the 11 social icons are active.
+
+== Changelog ==
+
+= 2.0 =
+* Added 3 options to choose from, for social icons in default state.
+* Added 3 options to choose from, for social icons in rollover ( hover ) state.
+
+== Upgrade Notice ==
+
+= 2.0 =
+New options have been added to choose how the social icons appear. Please upgrade to latest version.
