@@ -6,8 +6,8 @@
 /*
 Plugin Name: Social Space
 Plugin URI: http://wordpress.org/plugins/social-space/
-Description: A simple Plugin for showing your social links using a simple widget so that people can connect with you more easily.
-Version: 2.0
+Description: Plugin to show links to your social profiles, so people can connect with you more easily.
+Version: 3.0
 Author: Rishabh Shah
 Author URI: http://profiles.wordpress.org/rishabh_19/
 License: GPLv2 or later
