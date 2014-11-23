@@ -60,7 +60,7 @@ class social_space extends WP_Widget {
             ?>
                 <p>
                     <label for="<?php echo $this->get_field_id($social_item); ?>"><?php _e($social_item, 'wp_widget_plugin'); ?></label>
-                    <input class="widefat" id="<?php echo $this->get_field_id($social_item); ?>" name="<?php echo $this->get_field_name($social_item); ?>" type="text" value="<?php echo ( $instance ) ? esc_attr($instance[$social_item]) : '' ?>" placeholder="Example: http://www.xyz.com" />
+                    <input class="widefat" id="<?php echo $this->get_field_id($social_item); ?>" name="<?php echo $this->get_field_name($social_item); ?>" type="text" value="<?php echo ( $instance ) ? esc_attr($instance[$social_item]) : '' ?>" placeholder=" http://www.example.com" />
                 </p>
             <?php
         }

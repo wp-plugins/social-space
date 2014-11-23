@@ -2,8 +2,8 @@
 Contributors: rishabh_19
 Tags: social, widget, sharing, plugin, simple, wordpress
 Requires at least: 2.9.2
-Tested up to: 3.9
-Stable tag: 2.0
+Tested up to: 4.0.1
+Stable tag: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,10 @@ Note: Be sure to enter the URL for each social site by starting with 'http://' (
 
 == Changelog ==
 
+= 3.0 =
+* Minor changes in user interface.
+* Functional changes for WordPress 4.0.1 compatibility.
+
 = 2.0 =
 * Added 3 options to choose from, for social icons in default state.
 * Added 3 options to choose from, for social icons in rollover ( hover ) state.
@@ -49,3 +53,6 @@ Note: Be sure to enter the URL for each social site by starting with 'http://' (
 
 = 2.0 =
 New options have been added to choose how the social icons appear. Please upgrade to latest version.
+
+= 3.0 =
+Plugin in now compatible with WordPress 4.0.1. Please upgrade to latest version.
