@@ -11,17 +11,19 @@ A simple Plugin for showing your social links using a simple widget so that peop
 
 == Description ==
 
-Social Space widget is a very light weight widget that will help you easily share your social links. When you activate this plugin widget, you'll see 'social Space' appear in the widget's list. Just drag and drop it wherever you wish to show your social links on the website.
+Social Space widget is a very light weight widget that will help you easily share your social links. When you activate this plugin widget, you'll see 'Social Space' appear in the widget's list. Just drag and drop it wherever you wish to show your social links on the website.
 
-Within the widget, you can add a 'Title' that will appear on the website as widget's title. Then there is a list of social websites with a space for adding your personal URLs for each respective social site. Only those social icons will be displayed on your website for which you have added a URL.
+Within the widget, you can add a 'Title' that will appear on the website as widget's title. Then there is a list of social websites with a space for adding your profile URLs for each respective social site. Only those social icons will be displayed on your website for which you have added a URL.
 
-For example - If you provide a URL in the text box of Twitter, Skype, Pinterest. And you leave the text box of Facebook blank. The, you'll only see Twitter, Skype, Pinterest icons appear in the widget on the website. So it easily customizable and you can 'Select what you want to Share'
+For example - If you provide a URL in the text box of Twitter, Skype, Pinterest and you leave the text box of Facebook blank. Then, you'll only see Twitter, Skype, Pinterest icons appear in the widget on the website. So its easily customizable and you can 'Choose what you want to Share'
 
 At present, There are 11 social websites which have been included viz. Facebook, Twitter, Google+, LinkedIn, Skype, Flickr, Pinterest, RSS, YouTube, Vimeo and Dribble.
 
 There is a cool hover effect for each icon when you place the mouse pointer over them.
 
-Note: Be sure to enter the URL for each social site by starting with 'http://' (Example: http://www.facebook.com/fyibase) in order to make the social icons properly link to your social profile.
+There are 3 different shapes from which you can choose to show your social icons i.e Square, Rounded corners and Circle.
+
+Note: Be sure to enter the URL for each social site by starting with 'http://' or 'https://' (Example: http://www.facebook.com/fyibase) in order to make the social icons properly link to your social profile.
 
 == Installation ==
 
